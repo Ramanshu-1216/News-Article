@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Widget.Theme.NewsArticle.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+    <style name="AppTheme.Title" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/bold</item>
+        <item name="color">@color/dark</item>
+    </style>
+</resources>
